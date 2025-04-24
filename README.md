@@ -21,14 +21,14 @@
 
 ### 2. GET SESSION ID HERE
 
-### SERVER 1
+### SERVER 1 
+ 
+<a href="https://bunny-md-session.onrender.com/"><img src="https://img.shields.io/badge/SESSION_ID-blue" alt="Click Here to Get Pair-Code" width="110"></a>   
 
-<a href="https://bunny-md-session.onrender.com/"><img src="https://img.shields.io/badge/SESSION_ID-blue" alt="Click Here to Get Pair-Code" width="110"></a>
-
-### SERVER 2
+### SERVER 2 
 ### GET SESSION ID HERE
 
-<a href="https://bunny-md-session.onrender.com/"><img src="https://img.shields.io/badge/SESSION-ID-red" alt="Click Here to Get Pair-Code" width="110"></a>
+<a href="https://bunny-md-session.onrender.com/"><img src="https://img.shields.io/badge/SESSION-ID-red" alt="Click Here to Get Pair-Code" width="110"></a>   
 
 
 
@@ -56,10 +56,10 @@
     <a href='https://railway.com/github/bunny00-bot/BUNNY-MD-V1' target="_blank"><img alt='Railway' src='https://img.shields.io/badge/-Deploy-green?style=for-the-badge&logo=railway&logoColor=white'/></a>
 
     <h2 align="center"> ❗ NOTE  </h2>
-## BUNNY_MD_V0.1 SCRIPT IS NOT OPENLY ALLOWED TO USED IN ANY OF YOUR PROJECTS BE WARNED!!!
+## BUNNY_MD_V0.1 SCRIPT IS NOT OPENLY ALLOWED TO USED IN ANY OF YOUR PROJECTS BE WARNED!!! 
 
 ## ```Connect With Me```
- <br>
+ <br> 
 <p align="center">
 <a href="https://wa.me/263771528985"><img src="https://img.shields.io/badge/Contact BUNNY-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
 <a href="https://whatsapp.com/channel/0029Vb5HhRAFi8xggoraw43G"><img src="https://img.shields.io/badge/Join Official Channel-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
@@ -69,7 +69,7 @@
 
 * [🧑‍💻 Follow BUNNY_MD Whatsapp Channel🧑‍💻](https://whatsapp.com/channel/0029Vb5HhRAFi8xggoraw43G)
 
-* [✅ Join Public Group ⚡](https://whatsapp.com/channel/0029Vb5HhRAFi8xggoraw43G)
+* [✅ Join Public Group ⚡](https://whatsapp.com/channel/0029Vb5HhRAFi8xggoraw43G)  
 
 - *BUNNY_MD-V1 is not made by `WhatsApp Inc.` Sometimes or misusing the bot might `ban` your `WhatsApp account!`*
 - *In that case, I'm not responsible for banning your account.*
@@ -79,3 +79,4 @@
 
 FOLLOW BUNNY WHAtSAPP CHANNEL FOR MORE UPDATES
 [![JOIN WHATSAPP GROUP](https://whatsapp.com/channel/0029Vb5HhRAFi8xggoraw43G)
+
